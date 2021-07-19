@@ -1,0 +1,1 @@
+document.querySelector(".showkoro").innerHTML = "Hellow Learners";
